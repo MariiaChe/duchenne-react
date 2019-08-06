@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "86a7f215a3c98649a05388806c8b4144",
+    "revision": "3ed07a67c769dc213ab673c95c22b43e",
     "url": "/duchenne-react/index.html"
   },
   {
-    "revision": "5a2ec70814a3ee9ca1a1",
+    "revision": "e98394e15a89ae7e9df4",
     "url": "/duchenne-react/static/css/2.22a7d4ef.chunk.css"
   },
   {
-    "revision": "ce2ebafa4f2f43457e97",
-    "url": "/duchenne-react/static/css/main.47221a35.chunk.css"
+    "revision": "22f7af429a65a91c2097",
+    "url": "/duchenne-react/static/css/main.3f6b2756.chunk.css"
   },
   {
-    "revision": "5a2ec70814a3ee9ca1a1",
-    "url": "/duchenne-react/static/js/2.21fa9fb7.chunk.js"
+    "revision": "e98394e15a89ae7e9df4",
+    "url": "/duchenne-react/static/js/2.65e18950.chunk.js"
   },
   {
-    "revision": "ce2ebafa4f2f43457e97",
-    "url": "/duchenne-react/static/js/main.dbdc2a49.chunk.js"
+    "revision": "22f7af429a65a91c2097",
+    "url": "/duchenne-react/static/js/main.2e6b8016.chunk.js"
   },
   {
     "revision": "f57c5164320e3cc0a701",
@@ -114,6 +114,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6ef21bbc2ff481f5959c51f6cb5bc129",
     "url": "/duchenne-react/static/media/iconomontaña.6ef21bbc.jpg"
+  },
+  {
+    "revision": "dee01102076bcc2f5b23084f07c66df0",
+    "url": "/duchenne-react/static/media/like2.dee01102.svg"
   },
   {
     "revision": "455ef018b89ecd1790fcf01b1f624f45",
