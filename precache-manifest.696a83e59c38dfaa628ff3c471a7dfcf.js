@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5675597951d6c9e8b9e14b268d639052",
+    "revision": "86a7f215a3c98649a05388806c8b4144",
     "url": "/duchenne-react/index.html"
   },
   {
-    "revision": "6b4382b9c00d8871f105",
+    "revision": "5a2ec70814a3ee9ca1a1",
     "url": "/duchenne-react/static/css/2.22a7d4ef.chunk.css"
   },
   {
-    "revision": "c0921ffdb2d664b64aba",
-    "url": "/duchenne-react/static/css/main.029c0f8a.chunk.css"
+    "revision": "ce2ebafa4f2f43457e97",
+    "url": "/duchenne-react/static/css/main.47221a35.chunk.css"
   },
   {
-    "revision": "6b4382b9c00d8871f105",
-    "url": "/duchenne-react/static/js/2.8ea90ec2.chunk.js"
+    "revision": "5a2ec70814a3ee9ca1a1",
+    "url": "/duchenne-react/static/js/2.21fa9fb7.chunk.js"
   },
   {
-    "revision": "c0921ffdb2d664b64aba",
-    "url": "/duchenne-react/static/js/main.204e5331.chunk.js"
+    "revision": "ce2ebafa4f2f43457e97",
+    "url": "/duchenne-react/static/js/main.dbdc2a49.chunk.js"
   },
   {
     "revision": "f57c5164320e3cc0a701",
@@ -68,6 +68,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/duchenne-react/static/media/donar.8903d732.png"
   },
   {
+    "revision": "f4135ede37fd15aa5501a5baf8e6aae7",
+    "url": "/duchenne-react/static/media/empresa-svg(1).f4135ede.png"
+  },
+  {
     "revision": "b9b441f3fe545ad5529b7fd1452ed50b",
     "url": "/duchenne-react/static/media/empresa.b9b441f3.svg"
   },
@@ -90,6 +94,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f9c34a8ba82da2285813c592a54dbb0a",
     "url": "/duchenne-react/static/media/exon5.f9c34a8b.jpg"
+  },
+  {
+    "revision": "848ad936996079eaf4098263bd58b87c",
+    "url": "/duchenne-react/static/media/familia(1).848ad936.png"
   },
   {
     "revision": "71b495d897c7d18985de3a187702b202",
@@ -126,6 +134,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "480daec0194b93cf9594a03cdc62917d",
     "url": "/duchenne-react/static/media/paleta.480daec0.png"
+  },
+  {
+    "revision": "d12256574a301cb000c528f97178a9c2",
+    "url": "/duchenne-react/static/media/superhombre-svg(1).d1225657.png"
+  },
+  {
+    "revision": "2427c7a7b77c9c8ea105e530328c63fa",
+    "url": "/duchenne-react/static/media/superhombre-svg(2).2427c7a7.png"
+  },
+  {
+    "revision": "b5f50e4fc0cc8959e3423b16afcb4f10",
+    "url": "/duchenne-react/static/media/superhombre-svg.b5f50e4f.png"
   },
   {
     "revision": "ef9250b8cb5e74fc6d4f01001f8d6840",
