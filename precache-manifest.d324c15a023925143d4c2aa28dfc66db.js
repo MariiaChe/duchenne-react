@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3ed07a67c769dc213ab673c95c22b43e",
+    "revision": "35ded7836c3416d164b5f3b5c8779312",
     "url": "/duchenne-react/index.html"
   },
   {
-    "revision": "e98394e15a89ae7e9df4",
+    "revision": "9108153e6c1594a55379",
     "url": "/duchenne-react/static/css/2.22a7d4ef.chunk.css"
   },
   {
-    "revision": "22f7af429a65a91c2097",
-    "url": "/duchenne-react/static/css/main.3f6b2756.chunk.css"
+    "revision": "9a685185ee7ab6af75dd",
+    "url": "/duchenne-react/static/css/main.b85419d9.chunk.css"
   },
   {
-    "revision": "e98394e15a89ae7e9df4",
-    "url": "/duchenne-react/static/js/2.65e18950.chunk.js"
+    "revision": "9108153e6c1594a55379",
+    "url": "/duchenne-react/static/js/2.ace94faf.chunk.js"
   },
   {
-    "revision": "22f7af429a65a91c2097",
-    "url": "/duchenne-react/static/js/main.2e6b8016.chunk.js"
+    "revision": "9a685185ee7ab6af75dd",
+    "url": "/duchenne-react/static/js/main.843e80bb.chunk.js"
   },
   {
     "revision": "f57c5164320e3cc0a701",
@@ -60,6 +60,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/duchenne-react/static/media/bienvenido.8f9eb295.jpg"
   },
   {
+    "revision": "599493731236462731d7625fd75ad8ef",
+    "url": "/duchenne-react/static/media/donar(1).59949373.png"
+  },
+  {
+    "revision": "be37910392211989ad65eb9eb2c6e356",
+    "url": "/duchenne-react/static/media/donar(2).be379103.png"
+  },
+  {
+    "revision": "9f37674346a7c2a124da1328269f03c6",
+    "url": "/duchenne-react/static/media/donar(3).9f376743.png"
+  },
+  {
+    "revision": "a095c67a11c1aa47ed0824b133a5c0cd",
+    "url": "/duchenne-react/static/media/donar(4).a095c67a.png"
+  },
+  {
     "revision": "347b6ecea70f6d67192ed2cc3a65cf27",
     "url": "/duchenne-react/static/media/donar.347b6ece.jpg"
   },
@@ -94,6 +110,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f9c34a8ba82da2285813c592a54dbb0a",
     "url": "/duchenne-react/static/media/exon5.f9c34a8b.jpg"
+  },
+  {
+    "revision": "a7c32451f5910318a360feb25d5ba66b",
+    "url": "/duchenne-react/static/media/facebook-svg.a7c32451.svg"
   },
   {
     "revision": "848ad936996079eaf4098263bd58b87c",
@@ -138,6 +158,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "480daec0194b93cf9594a03cdc62917d",
     "url": "/duchenne-react/static/media/paleta.480daec0.png"
+  },
+  {
+    "revision": "408b43ae01e91c2ce6e5cf242309a0a0",
+    "url": "/duchenne-react/static/media/pdf-trans.408b43ae.png"
   },
   {
     "revision": "d12256574a301cb000c528f97178a9c2",
