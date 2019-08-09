@@ -1,99 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cffddbaec4e259d921da1878c641af4e",
+    "revision": "28bf69af58fdda1e840054c2d75f9fa5",
     "url": "/duchenne-react/index.html"
   },
   {
-    "revision": "7a31a3ab2a9cd571d7b7",
+    "revision": "e827b099b8ca2ed899c5",
     "url": "/duchenne-react/static/css/2.86bfa35a.chunk.css"
   },
   {
-    "revision": "40951afde35406a9d176",
-    "url": "/duchenne-react/static/css/main.dc6c1f57.chunk.css"
+    "revision": "759627938a3bc22b32d5",
+    "url": "/duchenne-react/static/css/main.3dded7f2.chunk.css"
   },
   {
-    "revision": "7a31a3ab2a9cd571d7b7",
-    "url": "/duchenne-react/static/js/2.fd8827c2.chunk.js"
+    "revision": "e827b099b8ca2ed899c5",
+    "url": "/duchenne-react/static/js/2.faea1ad2.chunk.js"
   },
   {
-    "revision": "40951afde35406a9d176",
-    "url": "/duchenne-react/static/js/main.1cc92ba7.chunk.js"
+    "revision": "759627938a3bc22b32d5",
+    "url": "/duchenne-react/static/js/main.528adcf9.chunk.js"
   },
   {
     "revision": "f57c5164320e3cc0a701",
     "url": "/duchenne-react/static/js/runtime~main.303678a8.js"
   },
   {
-    "revision": "5c5ba2df1f5c289065d3d12a991798df",
-    "url": "/duchenne-react/static/media/Investigacion.5c5ba2df.png"
-  },
-  {
-    "revision": "122f01181c153f113ce2ce1dcb2b8d1e",
-    "url": "/duchenne-react/static/media/New-Project(10).122f0118.png"
-  },
-  {
-    "revision": "c7730e2e6cc4d2891e5d1bcd6a9feae2",
-    "url": "/duchenne-react/static/media/New-Project(12).c7730e2e.png"
-  },
-  {
     "revision": "21fb281ce7722c3aed0954e2f491364c",
     "url": "/duchenne-react/static/media/New-Project(13).21fb281c.png"
   },
   {
-    "revision": "2110215b4c3536ab57d817474adfba5e",
-    "url": "/duchenne-react/static/media/New-Project(5).2110215b.png"
-  },
-  {
-    "revision": "31d985aeb8fb42d834218048c05c34ec",
-    "url": "/duchenne-react/static/media/New-Project(6).31d985ae.png"
-  },
-  {
-    "revision": "a050ec3ceea04cf77a83e936b6febb2e",
-    "url": "/duchenne-react/static/media/New-Project(7).a050ec3c.png"
-  },
-  {
-    "revision": "18a97443f8b8068c4ddfebcf3c0aeafc",
-    "url": "/duchenne-react/static/media/adn.18a97443.png"
+    "revision": "3a7dc2b4f00894dcea6b5d85b9e906f3",
+    "url": "/duchenne-react/static/media/and-puntos.3a7dc2b4.jpg"
   },
   {
     "revision": "5cb922bd71975b35d8469bd369424747",
     "url": "/duchenne-react/static/media/beba.5cb922bd.png"
-  },
-  {
-    "revision": "8f9eb2957dee252526a31affe789a5c9",
-    "url": "/duchenne-react/static/media/bienvenido.8f9eb295.jpg"
-  },
-  {
-    "revision": "599493731236462731d7625fd75ad8ef",
-    "url": "/duchenne-react/static/media/donar(1).59949373.png"
-  },
-  {
-    "revision": "be37910392211989ad65eb9eb2c6e356",
-    "url": "/duchenne-react/static/media/donar(2).be379103.png"
-  },
-  {
-    "revision": "9f37674346a7c2a124da1328269f03c6",
-    "url": "/duchenne-react/static/media/donar(3).9f376743.png"
-  },
-  {
-    "revision": "a095c67a11c1aa47ed0824b133a5c0cd",
-    "url": "/duchenne-react/static/media/donar(4).a095c67a.png"
-  },
-  {
-    "revision": "347b6ecea70f6d67192ed2cc3a65cf27",
-    "url": "/duchenne-react/static/media/donar.347b6ece.jpg"
-  },
-  {
-    "revision": "8903d732f338c23c56c2ffadcc13a38a",
-    "url": "/duchenne-react/static/media/donar.8903d732.png"
-  },
-  {
-    "revision": "f4135ede37fd15aa5501a5baf8e6aae7",
-    "url": "/duchenne-react/static/media/empresa-svg(1).f4135ede.png"
-  },
-  {
-    "revision": "b9b441f3fe545ad5529b7fd1452ed50b",
-    "url": "/duchenne-react/static/media/empresa.b9b441f3.svg"
   },
   {
     "revision": "5b3c4b4b1878c9aa3e340e0cdd1a1a89",
@@ -118,14 +58,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a7c32451f5910318a360feb25d5ba66b",
     "url": "/duchenne-react/static/media/facebook-svg.a7c32451.svg"
-  },
-  {
-    "revision": "848ad936996079eaf4098263bd58b87c",
-    "url": "/duchenne-react/static/media/familia(1).848ad936.png"
-  },
-  {
-    "revision": "71b495d897c7d18985de3a187702b202",
-    "url": "/duchenne-react/static/media/familia.71b495d8.png"
   },
   {
     "revision": "0188c4962230fb45bdbbd1be49a29e5e",
@@ -188,6 +120,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/duchenne-react/static/media/paleta.480daec0.png"
   },
   {
+    "revision": "3e598660c5dbd2d87e8bc22dc00cbd5b",
+    "url": "/duchenne-react/static/media/portada.3e598660.jpg"
+  },
+  {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
     "url": "/duchenne-react/static/media/slick.b7c9e1e4.woff"
   },
@@ -210,10 +146,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2427c7a7b77c9c8ea105e530328c63fa",
     "url": "/duchenne-react/static/media/superhombre-svg(2).2427c7a7.png"
-  },
-  {
-    "revision": "b5f50e4fc0cc8959e3423b16afcb4f10",
-    "url": "/duchenne-react/static/media/superhombre-svg.b5f50e4f.png"
   },
   {
     "revision": "ef9250b8cb5e74fc6d4f01001f8d6840",
