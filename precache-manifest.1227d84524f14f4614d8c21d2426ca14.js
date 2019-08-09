@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b49b454931c802979d5606a57908a758",
+    "revision": "cffddbaec4e259d921da1878c641af4e",
     "url": "/duchenne-react/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/duchenne-react/static/css/2.86bfa35a.chunk.css"
   },
   {
-    "revision": "e5d793ade632e2796ec9",
-    "url": "/duchenne-react/static/css/main.92c1497f.chunk.css"
+    "revision": "40951afde35406a9d176",
+    "url": "/duchenne-react/static/css/main.dc6c1f57.chunk.css"
   },
   {
     "revision": "7a31a3ab2a9cd571d7b7",
     "url": "/duchenne-react/static/js/2.fd8827c2.chunk.js"
   },
   {
-    "revision": "e5d793ade632e2796ec9",
-    "url": "/duchenne-react/static/js/main.9447f75d.chunk.js"
+    "revision": "40951afde35406a9d176",
+    "url": "/duchenne-react/static/js/main.1cc92ba7.chunk.js"
   },
   {
     "revision": "f57c5164320e3cc0a701",
