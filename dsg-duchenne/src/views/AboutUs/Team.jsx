@@ -20,10 +20,10 @@ class Team extends Component{
                <div className="directory">
                <h4>La principal característica de este equipo es su compromiso , para luchar juntos para la cura de duchenne. Este equipo altamente comprometido esta formado por nuestro directorio el cual se compone por los siguientes miembros:</h4> 
                </div>
-                <h4>Directorio :</h4>
+                <h4 id="header">Directorio :</h4>
                  <li className="list">Nicolas Schongut Grollmus | Fundador y Presidente</li>
                 <li className="list">Alejandro Duran | Fundador</li>
-                <li className="list"> Gabriel Rada| Director </li>
+                <li className="list"> Gabriel Rada | Director </li>
                 <li className="list">Mauricio Garro Munizaga | Secretario</li>
               <li className="list">Fabiola | Tesorera</li>
                 
