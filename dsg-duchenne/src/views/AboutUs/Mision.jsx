@@ -10,7 +10,7 @@ class Mision extends Component{
            <React.Fragment>
                 
                     <Navbar/>
-               <div className="mision">
+               <div id="mision">
                 <div className="row ">    
                 <div className="body offset-md-1 col-md-8">
                   <h1>    Misión y Principios.  </h1>
