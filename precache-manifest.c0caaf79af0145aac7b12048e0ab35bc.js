@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6962ca6a57d68b2c46b3e133e6ffe329",
+    "revision": "44526be042df1e2dd00ee8b6fe57add0",
     "url": "/duchenne-react/index.html"
   },
   {
-    "revision": "51d82e1ec35d092a29b5",
+    "revision": "1cf61ea968e49d28b8ff",
     "url": "/duchenne-react/static/css/2.86bfa35a.chunk.css"
   },
   {
-    "revision": "6933289523616be088a7",
-    "url": "/duchenne-react/static/css/main.a1c1fb4e.chunk.css"
+    "revision": "69201a5ef50f75257008",
+    "url": "/duchenne-react/static/css/main.7a565704.chunk.css"
   },
   {
-    "revision": "51d82e1ec35d092a29b5",
-    "url": "/duchenne-react/static/js/2.3d07b13b.chunk.js"
+    "revision": "1cf61ea968e49d28b8ff",
+    "url": "/duchenne-react/static/js/2.f17806e9.chunk.js"
   },
   {
-    "revision": "6933289523616be088a7",
-    "url": "/duchenne-react/static/js/main.1d33fbde.chunk.js"
+    "revision": "69201a5ef50f75257008",
+    "url": "/duchenne-react/static/js/main.3d75289d.chunk.js"
   },
   {
     "revision": "f57c5164320e3cc0a701",
@@ -92,6 +92,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/duchenne-react/static/media/facebook1.d0cc48a5.svg"
   },
   {
+    "revision": "e0d5da30cce7021857d0f26647e5c611",
+    "url": "/duchenne-react/static/media/gene-therapy-illustration.e0d5da30.jpg"
+  },
+  {
     "revision": "0188c4962230fb45bdbbd1be49a29e5e",
     "url": "/duchenne-react/static/media/google.0188c496.png"
   },
@@ -126,6 +130,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9a5df6d7bc37008dd9e2d4fed9d8ba5e",
     "url": "/duchenne-react/static/media/micro2.9a5df6d7.jpg"
+  },
+  {
+    "revision": "05ddb6dcbca5ac9b81656c7cc48a52e6",
+    "url": "/duchenne-react/static/media/persona.05ddb6dc.png"
   },
   {
     "revision": "46e336837444e877b2e00abcd02cde32",
