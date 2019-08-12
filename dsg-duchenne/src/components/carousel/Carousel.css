@@ -124,11 +124,11 @@
 }
 #txt-three #awarness{
     margin-left: 89%;
-    margin-top: 12%;
+    margin-top: -2%;
 }
 #txt-three #day{
-    margin-right: -1%;
-    margin-top:-2%;
+    margin-right: -11%;
+    margin-top:14%;
 }
 #txt-three #date{
     margin-top: 3%;
@@ -136,9 +136,9 @@
     font-size: 80px;
 }
 #world{
-    width: 21%;
-    margin-top:10%;
-    margin-left:72%;
+    width: 15%;
+    margin-top:14%;
+    margin-left:70%;
     z-index: 1;
     position: absolute;
 }
