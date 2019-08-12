@@ -1,6 +1,9 @@
 .sabias{
-    display:none ;
+    display:none;
     margin-top:20vh;
+}
+#join{
+    display: none;
 }
 #sabias-que, #europa{
     color: #5a5858;
@@ -70,6 +73,10 @@
     #divider{
         width:120%;
         margin-top:5%;
+      }
+      #join{
+          margin-top:20vh;
+          display: block;
       }
 }
 

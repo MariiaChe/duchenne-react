@@ -51,12 +51,12 @@ class Cards extends Component{
     <React.Fragment> 
       <div  id="news">
         <h4>Ultimas noticias:</h4>
-        <hr id="divider"></hr>
-        <div className="container">
+        {/* <hr id="divider"></hr> */}
+       
         <div className="row">
           {News}
         </div>
-        </div>
+        
       </div>
     </React.Fragment>
         )

@@ -16,7 +16,7 @@ class Home extends Component {
          <React.Fragment>/
             <Navbar />
               <Carousel/>
-              <div className="responsive container">
+              <div className="container">
               <Sabias/>
                 <ExplainMoney/> 
                 <Responsive/>
