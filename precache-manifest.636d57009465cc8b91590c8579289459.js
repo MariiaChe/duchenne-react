@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ae7c3e164e53cfe34d1f81578749c7d2",
+    "revision": "2d5d653fea5c55db40958ad2317fbc52",
     "url": "/duchenne-react/index.html"
   },
   {
-    "revision": "434ddd61020486674f80",
+    "revision": "67c95ade1e8c49fe305d",
     "url": "/duchenne-react/static/css/2.86bfa35a.chunk.css"
   },
   {
-    "revision": "2e15dc1d14179bbe74cf",
-    "url": "/duchenne-react/static/css/main.0e75a5c8.chunk.css"
+    "revision": "8a444001e4991627a74d",
+    "url": "/duchenne-react/static/css/main.a49ffd0f.chunk.css"
   },
   {
-    "revision": "434ddd61020486674f80",
-    "url": "/duchenne-react/static/js/2.92fddb3f.chunk.js"
+    "revision": "67c95ade1e8c49fe305d",
+    "url": "/duchenne-react/static/js/2.9a7ff5c6.chunk.js"
   },
   {
-    "revision": "2e15dc1d14179bbe74cf",
-    "url": "/duchenne-react/static/js/main.1d0208a2.chunk.js"
+    "revision": "8a444001e4991627a74d",
+    "url": "/duchenne-react/static/js/main.0c733544.chunk.js"
   },
   {
     "revision": "f57c5164320e3cc0a701",
     "url": "/duchenne-react/static/js/runtime~main.303678a8.js"
+  },
+  {
+    "revision": "be144b6b63cc8e62d3cb5218d804041c",
+    "url": "/duchenne-react/static/media/Exon-Skipping-Technology.be144b6b.jpg"
   },
   {
     "revision": "21fb281ce7722c3aed0954e2f491364c",
@@ -46,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "66aeb5dba474c692c11c1c11ef2fadcd",
     "url": "/duchenne-react/static/media/danger(1).66aeb5db.svg"
+  },
+  {
+    "revision": "7bc1942b5c72a55583bdaa1482f4fe89",
+    "url": "/duchenne-react/static/media/distrofina.7bc1942b.jpg"
   },
   {
     "revision": "68062c8260e391864c847fff1cfa8f15",
