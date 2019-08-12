@@ -1,9 +1,23 @@
 .finalText{
     font-style: italic;
-    font-size: 15px;
+
 
 }
 #invest .card{
     margin-top: 2em;
     background-color: #5da49a;
+}
+#research{
+    margin-top:16%;
+    color:#626363;
+}
+#research h1{
+    color:#039D8B ;
+    margin-bottom: 4%;
+}
+@media (max-width: 800px) {
+    #research h1{
+    margin-top:18%;
+   }
+   
 }

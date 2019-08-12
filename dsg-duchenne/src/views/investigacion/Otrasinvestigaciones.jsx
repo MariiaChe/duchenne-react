@@ -13,28 +13,33 @@ class OtrasInvestigaciones extends Component{
                 <Navbar/>
                     <div id="othinv">
                         <div className="row">
-                            <div className="card col-md-3 offset-md-1" >
-                                    <div className="card-body">
-                                        <h5 className="card-title">MICRODISTROFINA</h5>
-                                        <h6 className="card-subtitle mb-2 text-muted">Un gen miniaturizado intenta salvar a los niños</h6>
-                                        <p className="card-text">La micro-distrofina es una versión abreviada de la proteína distrofina que conserva sus componentes y funciones principales.</p>
+                            <div className="card col-md-3 col-sm-6" >
+                            <div className="card-body">
+                            <img  src="http://1.bp.blogspot.com/-eEgfS4IybQY/VltbCXtZVzI/AAAAAAAAAG4/Cv07YdgxSho/s1600/33.jpg" className="card-img-top" alt="imagen sobre microdistrofina"/>
+                            <div className="text-card">
+                                        <h5 className="card-title">MICRO-DISTROFINA</h5> 
+                                        <div className="text">
+                                        <a className="card-text">Un gen miniaturizado intenta salvar a los niños</a></div>
                                         <Link to="/investigacion-microdistrofina"><a href="#" className="card-link">Articulo completo</a></Link> 
                                     </div>
-                            </div>
-                            <div className=" card col-md-3 offset-md-1" >
+                            </div></div>
+                            <div className=" card col-md-3 col-sm-6" >
                                 <div className="card-body">
+                                <img  src="https://weekly.biotechprimer.com/wp-content/uploads/2015/09/Exon-Skipping-Technology.jpg" className="card-img-top" alt="imagen sobre exon skipping"/>
                                     <h5 className="card-title">Exón skipping</h5>
-                                    <h6 className="card-subtitle mb-2 text-muted">Nueva estrategia farmacologica para la distrofia muscular de Duchenne.</h6>
-                                    <p className="card-text"> Los científicos han demostrado que esta técnica es efectiva en un modelo de distrofia muscular de Duchenne en ratones (el ratón mdx) y en biopsias musculares de personas con Duchenne..</p>
+                                    <div className="text">
+                                    <a className="card-text">Nueva estrategia farmacologica para la distrofia muscular de Duchenne.</a>
+                                    </div>
                                     <Link to="/investigacion-exon"><a href="#" className="card-link">Articulo completo</a></Link>
                                 </div>
                             </div>
-                            <div className="card col-md-3 offset-md-1" >
+                            <div className="card col-md-3  col-sm-6 " >
                                 <div className="card-body">
+                                <img  src="http://www.yachachiq.net/images/crispr-e1533660585287.jpeg" className="card-img-top" alt="imagen sobre tratamiento crispr"/>
                                     <h5 className="card-title">Tratamiento CRISPR / Cas9</h5>
-                                    <h6 className="card-subtitle mb-2 text-muted">Es una tecnología médica nueva y poderosa.</h6>
-                                    <p className="card-text">Se basa en el sistema natural de las bacterias para  protegerse de las infecciones virales.</p>
-                                    <Link to="/CRISPR"> <a href="#" className="card-link">Articulo completo</a></Link>   
+                                    <div className="text">
+                                    <a className="card-text">Tecnología médica nueva .Se basa en el sistema natural de las bacterias para  protegerse de las infecciones virales.</a>
+                                    </div> <Link to="/CRISPR"> <a href="#" className="card-link">Articulo completo</a></Link>   
                                 </div>
                             </div>
                         </div>                   

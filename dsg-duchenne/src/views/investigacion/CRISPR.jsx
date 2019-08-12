@@ -1,6 +1,6 @@
 import React, {Component}from 'react';
 import images from '../../importImages';
-
+import  './investigation.css'
 import Navbar from '../../components/Navbar/Navbar';
 import Footer from '../../components/Footer/Footer'
 
@@ -12,7 +12,7 @@ class Crispr extends Component{
                          
                     <Navbar/>
               
-                <div className="body">
+                <div className="body" id="research">
                 <div className="row">
                         <div className="offset-md-1 col-md-7">
                             <h1>Tratamiento CRISPR / Cas9</h1>
