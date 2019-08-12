@@ -1,27 +1,27 @@
-#what-is, #diagnostic, #genetics{
+#what-is, #diagnostic, #genetics, #situation{
   
     margin-top: 27vh;
     margin-bottom:5vh;
 }
 @media (max-width: 576px){
-    #what-is, #diagnostic, #genetics{
-      margin-top: 20vh;
+    #what-is, #diagnostic, #genetics, #situation{
+      margin-top: 15vh;
     }
 }
-#what-is h2, #diagnostic h2, #genetics h2, #genetics h4, #guide h2{
+#what-is h2, #diagnostic h2, #genetics h2, #genetics h4, #guide h2, #situation h2{
   color: #039D8B;
 }
-#diagnostic h2, #genetics h2, #what-is h2{
-  text-align: center;
-}
+/* #diagnostic h2, #genetics h2, #what-is h2{
+  /* text-align: center; */
+
 #what-is .text-span, #diagnostic .text-span,#genetics .text-span{
   color: #039D8B;
   font-weight: bolder;
 }
 
-#what-is p, #what-is .lista, #diagnostic p, #diagnostic .lista, #genetics .lista, #genetics p{
+#what-is p,#situation p, #what-is .lista, #diagnostic p, #diagnostic .lista, #genetics .lista, #genetics p{
  /* color: #7A7C7C; */
- color:#626363;
+ color: #5e5d5d;
  
 }
 #what-is ul li, #diagnostic ul li, #genetics ul li{
@@ -45,7 +45,7 @@
   text-align: center;
 }
 #guide a{
-  color:#626363;
+  color: #5e5d5d;
   text-decoration: none;
 }
 #guide a:hover{
@@ -60,3 +60,5 @@
    height: 45vh;
   }
 }
+
+
