@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/duchenne-react/static/css/main.0fe30b76.chunk.css",
+    "main.css": "/duchenne-react/static/css/main.81a30392.chunk.css",
     "main.js": "/duchenne-react/static/js/main.0598c689.chunk.js",
     "main.js.map": "/duchenne-react/static/js/main.0598c689.chunk.js.map",
     "runtime~main.js": "/duchenne-react/static/js/runtime~main.303678a8.js",
@@ -9,10 +9,10 @@
     "static/js/2.92fddb3f.chunk.js": "/duchenne-react/static/js/2.92fddb3f.chunk.js",
     "static/js/2.92fddb3f.chunk.js.map": "/duchenne-react/static/js/2.92fddb3f.chunk.js.map",
     "index.html": "/duchenne-react/index.html",
-    "precache-manifest.0d2c313dbade951d87c0fd0b7201e593.js": "/duchenne-react/precache-manifest.0d2c313dbade951d87c0fd0b7201e593.js",
+    "precache-manifest.ee1b62a5c9875d0bd959523b6618003b.js": "/duchenne-react/precache-manifest.ee1b62a5c9875d0bd959523b6618003b.js",
     "service-worker.js": "/duchenne-react/service-worker.js",
     "static/css/2.86bfa35a.chunk.css.map": "/duchenne-react/static/css/2.86bfa35a.chunk.css.map",
-    "static/css/main.0fe30b76.chunk.css.map": "/duchenne-react/static/css/main.0fe30b76.chunk.css.map",
+    "static/css/main.81a30392.chunk.css.map": "/duchenne-react/static/css/main.81a30392.chunk.css.map",
     "static/media/New-Project(13).png": "/duchenne-react/static/media/New-Project(13).21fb281c.png",
     "static/media/New-Project(3).png": "/duchenne-react/static/media/New-Project(3).10e0a5d7.png",
     "static/media/and-puntos.jpg": "/duchenne-react/static/media/and-puntos.3a7dc2b4.jpg",
