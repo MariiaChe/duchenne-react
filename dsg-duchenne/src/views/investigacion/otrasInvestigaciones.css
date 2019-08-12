@@ -1,16 +1,19 @@
 #othinv{
   margin-top: 16%;
+  margin-bottom:5vh;
+  height: 100%;
 }
 #othinv .card-img-top{
     width: 100%;
-    height: 180px;
+   
+
 }
 
 #othinv .card{
     margin-left: 5%;
     text-align:initial;
     width: 100%;
-    height: 90%;
+    height:100%;
 }
 
 
