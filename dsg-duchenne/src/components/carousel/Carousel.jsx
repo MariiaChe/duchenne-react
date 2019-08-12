@@ -38,9 +38,15 @@ class  Carousel extends Component{
 
                 <div class="carousel-item">
                   <div id="txt-three">
+<<<<<<< HEAD
                     <h1 id="duch">Duchenne</h1>   
                     <h2 id="day">Día de la</h2>
                     <h2 id="awarness">Conciencia</h2>
+=======
+                    <h1 id="duch">Duchenne</h1>
+                    <h2 id="awarness">Día de la</h2>
+                    <h2 id="day">Consciencia</h2>
+>>>>>>> 15ac1bd67b905b37cc38825d246c2afefcb60bed
                     <h2 id="date">7 SEP</h2>
                   </div>
                   <img id="world" src={images['mundo.png']}  alt="..."/>

@@ -32,6 +32,10 @@ class Team extends Component{
                       </div>
                       <div className="member col-md-6">
                           <img className="photo-team"src={images["persona.png"]} alt="..."/>
+                          ><h2 className="names">Chrustiane Kunsmuller</h2><h4 className="ocupation">Sub-Directora</h4>
+                      </div>
+                      <div className="member col-md-6">
+                          <img className="photo-team"src={images["persona.png"]} alt="..."/>
                           <h2 className="names">Mauricio Garro Munizaga</h2><h4 className="ocupation">Secretario</h4>
                       </div>
                       <div className="member col-md-6">

@@ -6,7 +6,7 @@ import ExplainMoney from '../../components/Money/Money';
 
 class Transparency extends Component{
     render(){
-        return(
+        return( 
          <div>
              <React.Fragment>
                 <Navbar/>

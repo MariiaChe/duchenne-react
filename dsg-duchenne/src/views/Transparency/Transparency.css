@@ -9,9 +9,7 @@
 #transparency .titles-trans{
     color: #039D8B;
 }
-#transparency #sub-titles{
-    color: #5e5d5d;
-}
+
 #accounts{
  border-color: #039D8B;
  background:transparent;
@@ -22,7 +20,7 @@
 }
 @media (max-width: 576px){
     #transparency{
-        margin-top: 20vh;
+        margin-top: 15vh;
     }
     .form-control{
         width: 40%;
@@ -30,5 +28,8 @@
     #accounts{
         margin-left: 30%;
     }
+}
+#transparency h5{
+    color: #5e5d5d;
 }
 

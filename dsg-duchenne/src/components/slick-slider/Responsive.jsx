@@ -43,7 +43,7 @@ export default class Responsive extends Component {
       <div id="sslider">
         <div className="row">
           <h4 className="col-12"> Empresas colaboradoras </h4>
-          <hr id="divider"></hr>
+          {/* <hr id="divider"></hr> */}
         </div>
         
         <Slider {...settings}>
