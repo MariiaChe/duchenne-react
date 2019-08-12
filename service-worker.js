@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/duchenne-react/precache-manifest.9a9cdc51b200e99f2f88f50ab5303df0.js"
+  "/duchenne-react/precache-manifest.46dffe64519e734b048d3a97b39335d3.js"
 );
 
 self.addEventListener('message', (event) => {
