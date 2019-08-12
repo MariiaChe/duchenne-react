@@ -1,5 +1,4 @@
 import React, {Component}from 'react';
-
 import './investigation.css'
 import Navbar from '../../components/Navbar/Navbar';
 import Footer from '../../components/Footer/Footer'
@@ -11,10 +10,9 @@ class Microdistrofina extends Component{
     <React.Fragment>
                
                     <Navbar/>
-                    <div className="investigation" id="invest">
-                
+                    <div className="investigation" id="research">
                     <div className="row">
-                        <div className="container-all col-md-8">
+                        <div className="container-all offset-md-1 col-md-8">
                     <h1>MICRODISTROFINA</h1>
                     <p>
                                           En los últimos años se han generado varios ensayos clínicos, como nunca antes.

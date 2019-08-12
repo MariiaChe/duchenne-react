@@ -1,14 +1,28 @@
 #othinv{
-  margin-top: 40vh;
+  margin-top: 16%;
 }
+#othinv .card-img-top{
+    width: 100%;
+    height: 180px;
+}
+
 #othinv .card{
-    width: 18rem;
+    margin-left: 5%;
+    text-align:initial;
+    width: 100%;
+    height: 90%;
 }
+
+
 #othinv .card-title{
-    color: #9d0315;
+    color:  #039D8B;
 }
-#ithiv .card-subtitle{
+#othinv .card-subtitle{
     color:#039D8B !important;
+}
+.text-card{
+    height:250%;
+    
 }
 @media (max-width: 576px) {
 
@@ -17,3 +31,10 @@
         margin-right:6rem;
     }
 }
+@media (max-width: 785px){
+    #othinv{
+        margin-top:26%;
+    }
+}
+
+

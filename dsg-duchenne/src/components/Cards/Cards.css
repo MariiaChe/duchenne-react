@@ -47,7 +47,11 @@
 a.card-text{
     color: #5a5858;    
     text-decoration: none;
+    height: 100px;
 
+}
+.text{
+    height: 45%;
 }
 #news .card-title h3{
     color:#039D8B;

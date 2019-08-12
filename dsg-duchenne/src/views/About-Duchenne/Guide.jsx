@@ -13,7 +13,7 @@ class Guide extends Component {
                             <div className="container"> 
                                 <h2>Revisa la guía recomendada para padres</h2>
                                 <a className="" href="http://www.treat-nmd.eu/downloads/file/standardsofcare/dmd/spanish/dmdmdffg_master_spanish_upa.pdf"> <p>Guía para padres</p></a>
-                                <img className="center img-fluid family-img" src={images["family(1)-svg-svg.png"]}/>
+                                <img className="center img-fluid family-img" alt="imagen de una familia" src={images["family(1)-svg-svg.png"]}/>
                             </div>
                         </div>
                     <Footer />
