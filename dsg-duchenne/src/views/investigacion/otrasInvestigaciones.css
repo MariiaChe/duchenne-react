@@ -28,15 +28,15 @@
     
 }
 @media (max-width: 576px) {
-
+    
     #othinv .card{
         margin-top: .3rem;
         margin-right:6rem;
     }
 }
-@media (max-width: 785px){
+@media (max-width: 576px){
     #othinv{
-        margin-top:26%;
+        margin-top:15vh;
     }
 }
 
