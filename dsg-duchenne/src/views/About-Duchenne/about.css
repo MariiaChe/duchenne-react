@@ -4,8 +4,8 @@
     margin-bottom:5vh;
 }
 @media (max-width: 576px){
-    #what-is, #diagnostic, #genetics{
-      margin-top: 20vh;
+    #what-is, #diagnostic, #genetics, #situation{
+      margin-top: 15vh;
     }
 }
 #what-is h2, #diagnostic h2, #genetics h2, #genetics h4, #guide h2, #situation h2{
@@ -61,8 +61,4 @@
   }
 }
 
-#situation{
-  margin-top:25vh;
-  margin-left:10vh;
-}
 

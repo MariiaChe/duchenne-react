@@ -5,10 +5,10 @@ import './about.css';
 
 class Situation extends Component{
     render(){
-        return( 
+        return(  
          <React.Fragment>
              <Navbar/>
-             <div id="situation">
+             <div id="situation" className="container">
 
                <h2>Siatuación País</h2>
                <p> La situación actual en Chile para tratar el DMD es solo paliativa. Entre las entidades que ofrecen tratamiento se encuentran el Instituto Teletón y el Hospital de niños Roberto del Río de la Región Metropolitana.</p>
